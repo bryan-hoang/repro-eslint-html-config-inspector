@@ -1,0 +1,8 @@
+{
+	"name": "eslint-proj",
+	"version": "0.0.0-development",
+	"devDependencies": {
+		"eslint": "9.0.0",
+		"eslint-plugin-html": "8.1.0"
+	}
+}
